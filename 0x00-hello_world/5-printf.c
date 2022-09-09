@@ -1,11 +1,10 @@
 #include <stdio.h>
-
 /**
- * main - printing a text
- *
- Return: Always 0 (Great)
+ * Status: main - prints out a string to look different.
+ * Return: 0 if successful.
  */
 int main(void)
 {
-
-     printf("with proper grammar, but the outcome is a piece of
+puts("|"Programming is like building a multilingual puzzle");
+return (0);
+}
